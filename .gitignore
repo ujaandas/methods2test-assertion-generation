@@ -2,3 +2,4 @@
 /corpus/*/
 /methods2test-v1.0
 /.vscode
+/scripts/output/*
